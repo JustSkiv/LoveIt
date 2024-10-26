@@ -86,6 +86,14 @@ youtubechannel:
   Icon:
     Class: fab fa-youtube fa-fw
 
+# 011.2: YouTube Channel
+youtubeuser:
+  Weight: 11
+  Prefix: https://www.youtube.com/
+  Title: YouTube
+  Icon:
+    Class: fab fa-youtube fa-fw
+
 # 012: Tumblr
 tumblr:
   Weight: 12
@@ -593,3 +601,12 @@ rss:
   Newtab: true
   Icon:
     Class: fas fa-rss fa-fw
+
+# Habr
+habr:
+  Weight: 100
+  Prefix: https://habr.com/ru/users/
+  Title: Habr
+  Newtab: true
+  Icon:
+    Simpleicons: habr
